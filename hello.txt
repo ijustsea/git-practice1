@@ -12,7 +12,7 @@
  - style : 공백, 세미콜론, 폰트, 스타일 등 스타일 수정
  - refactor : 코드 리팩토링
  - perf : 성능 개선
- - test : 테스트 추가
+ - test : 테스트 추가tt
 
 type: 제목 
 body:
